@@ -1,5 +1,5 @@
-# Distil-Whisper: distil-large-v3
-Distil-Whisper, as outlined in the paper "Robust Knowledge Distillation via Large-Scale Pseudo Labelling," represents the culmination of the Distil-Whisper English series. It's a refined version of OpenAI's Whisper large-v3, boasting superior long-form transcription accuracy with both sequential and chunked algorithms. This model performs within 1% WER of large-v3 on long-form audio tasks and surpasses distil-large-v2 by 4.8% using the sequential algorithm, all while being significantly faster.
+# Distil-Whisper: distil-large-v2
+Distil-Whisper is a distilled version of the Whisper model that is 6 times faster, 49% smaller, and performs within 1% WER on out-of-distribution evaluation sets. This is the repository for distil-large-v2, a distilled variant of Whisper large-v2.
 
 ---
 ## Prerequisites
